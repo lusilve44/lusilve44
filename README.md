@@ -1,0 +1,1 @@
+Actual estudiante de la carrera de Ingeniería en Computación, Udelar. También me encuentro cursando Jóvenes a Programar, orientado a Desarrollo Web y de parte de la Universidad Tecnológica del Uruguay y 4Geeks Academy, su bootcamp sobre Machine Learning.
